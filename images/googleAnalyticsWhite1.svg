@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89 14" width="89" height="14">
+	<defs>
+		<image width="89" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAAOCAMAAABzXkDSAAAAAXNSR0IB2cksfwAAAjFQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////py+dhQAAALt0Uk5TAAGl+6Yp/ycwExEFDknVzTpQ4C0KCVEMVf6Tjmhy0GAgwS4LjJ0cA+iRNi8NPDVGKKjUDwQQwEAUPRiBrDEHcNjq8ULw4fmY/O7P7IvlF7vZPsndkmMe9FpH623j0qqgHeKbxwhukGZKl3nbh0+3c4B2p11Z34l+01aDJOm/hrL975+c5je45xb1Erx1V/dE8sWzFfozeF8hXIVSobV/GlMlTtfLw9691lTRI8hbiJYZQ1jzsXvGK6SpJvx2d3UAAAJuSURBVHicY2CAAkYmZhZGBloAVjY2NnaamMwBNJkDwuTkwqaAm4dSk3n52Nj4BTAVCAoh2MIiyDKiCL+KieM2WUJSSlhYWgavyaxssiha5SC0vAKDohKqJmUVVTWoyeoamlBBbi1tYIzq6CoA2Xq8avpAk9W1DMBSKoZGIMrYBEiYmsBNNjMHkRaWxgwMVmoQIWs2NhuoybbAaLSzt7eXV3NwdDITdXZxddNkcPdw9RQSFDL18nbyAdnp68enx2DmH+AUyBkU7CjBIRcSyhDGx+IRHmFmHukSFMURHRMbBzY5no1NDm5yAgOPkFBUYlJyCpdvakAagx5bOlsGQybQ5KzshBw2VgaG3DyGfHcGswKGwiLTYoGSUg45Wz7GsnKQm83MKwQZKnXzqtSr0U3mrskHiZT519YxMNSnNUQyMDQ2sdkxSABNbnZsSQMazFDvIqThJAo0x9msVYOpzQUYGoq57R0Qkzu7QKHX3d6DbjJDb1+oHbd8Z39OcHXrBImJkyaHTpnaOc0iD2jy9L7WGUkdDFaNfqambTOB5pibzWpi6AWZPNtlDgPD3FygyWZZ6vNy9dXmezCIL1iIYjLDosXMHqViDMpxDX05jNVL2GoqGXgDGpcuExRi9Olzixdl6AEawlCyHGyytsaK5SCTTcKnMjCsXLXSzHz1KuY189cuS5zDsJTNzQDFZAaGDiswZacOIoEp12SdAcP6blBOMTFBSVMm4gzcG8CsjUsRoilALGrBwMDMxrYphI3NjB1o8kLMVAwGOZtXdJrjkIOALZWYYluZt/Fsd3USZNzhsRNnibTL2QKvwQxh6hhCAB7jhP8QJ4FSAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="ტრაფიკი">
+		<g id="ტრაფიკის კომპანის ლოგოები">
+			<use id="Векторный смарт-объект" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

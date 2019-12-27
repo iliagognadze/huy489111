@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 9" width="10" height="9">
+	<defs>
+		<image width="10" height="9" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAJBAMAAAD5iKAgAAAAAXNSR0IB2cksfwAAACpQTFRF////////////////////////////////////////////////////////avtNLQAAAA50Uk5TALv/iBHdMyLuZsx3qkQdDYp+AAAAOUlEQVR4nGNgVGYwEmBgCUrvKGBgmLRQm4GBgUdJAEiyKV0AkoxKC4DkJhmgOHtHSVMCg5c2w6YlAOo0ChyZyF42AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="ტრაფიკი">
+		<use id="x" href="#img1" x="0" y="0" />
+	</g>
+</svg>
